@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui" onLoad="Ribbon_Load">
+  <ribbon>
+    <tabs>
+      <tab idMso="TabNewMailMessage">
+          <group id="MyGroup3" label="Mail Made Easy">
+            <button id="save" onAction="savetemp" imageMso="FileSave" label="Save edited template" size="large" screentip="Lets you save the tmplate with the newly made changes. Cannot save a newly opened mail as a template because it doesn't have a template name. Click on create template to create and save a new template."/> 
+          </group>
+        <group id="MyGroup4" label="Abbreviations">
+          <button id="addabbr" onAction="addabbrcallback" label="Add entry" imageMso="Thesaurus" size="large" screentip="Lets you add abbreviations and corresponding expansions in the autocorrect list."/>
+          <button id="removeabbr" onAction="removeabbrcallback" label="Remove entry" imageMso="RecordsDeleteRecord" size="large" screentip="Lets you delete an autocorrect entry"/>
+        </group>
+      </tab>
+    </tabs>
+  </ribbon>
+</customUI>
+

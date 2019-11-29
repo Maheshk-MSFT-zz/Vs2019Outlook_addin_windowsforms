@@ -1,0 +1,16 @@
+c:\users\t-kathi\documents\visual studio 2013\Projects\templates\templates\bin\Debug\templates.dll
+c:\users\t-kathi\documents\visual studio 2013\Projects\templates\templates\bin\Debug\templates.pdb
+c:\users\t-kathi\documents\visual studio 2013\Projects\templates\templates\bin\Debug\templates.dll.manifest
+c:\users\t-kathi\documents\visual studio 2013\Projects\templates\templates\bin\Debug\templates.vsto
+c:\users\t-kathi\documents\visual studio 2013\Projects\templates\templates\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+c:\users\t-kathi\documents\visual studio 2013\Projects\templates\templates\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+c:\users\t-kathi\documents\visual studio 2013\Projects\templates\templates\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+c:\users\t-kathi\documents\visual studio 2013\Projects\templates\templates\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.xml
+c:\users\t-kathi\documents\visual studio 2013\Projects\templates\templates\obj\Debug\templates.csprojResolveAssemblyReference.cache
+c:\users\t-kathi\documents\visual studio 2013\Projects\templates\templates\obj\Debug\templates.Properties.Resources.resources
+c:\users\t-kathi\documents\visual studio 2013\Projects\templates\templates\obj\Debug\templates.csproj.GenerateResource.Cache
+c:\users\t-kathi\documents\visual studio 2013\Projects\templates\templates\obj\Debug\templates.dll
+c:\users\t-kathi\documents\visual studio 2013\Projects\templates\templates\obj\Debug\templates.pdb
+c:\users\t-kathi\documents\visual studio 2013\Projects\templates\templates\obj\Debug\templates.Form1.resources
+c:\users\t-kathi\documents\visual studio 2013\Projects\templates\templates\obj\Debug\templates.Form2.resources
+C:\Users\t-kathi\Documents\Visual Studio 2013\Projects\templates\templates\obj\Debug\templates.csproj.ResolveComReference.cache

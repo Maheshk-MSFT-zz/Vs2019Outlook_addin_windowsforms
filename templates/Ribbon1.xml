@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui" onLoad="Ribbon_Load">
+  <ribbon>
+    <tabs>
+      <tab idMso="TabMail">
+        <group id="MyGroup" label="Mail Made Easy"> 
+          <dynamicMenu id="dm1" getContent="open_template" label="Open a template" invalidateContentOnDrop="true" imageMso="MenuPublish" size="large" screentip="Lets you open an existing template"/>
+          <button id="createt" onAction="create_template" label="Create a template" imageMso="CaptionInsert" size="large" screentip="Lets you create a template with the required contents and format."/>
+          <dynamicMenu id="editt" getContent="edit_template" label="Edit a template" invalidateContentOnDrop="true" imageMso="FilePrepareMenu" size="large" screentip="Lets you edit the contents of an existing template and saving it."/>
+          <dynamicMenu id="deletet" getContent="delete_template" label="Delete a template" invalidateContentOnDrop="true" imageMso="DeleteSlideContextual" size="large" screentip="Lets you delete an existing template"/>
+        </group>
+      <group id="MyGroup3" label="Abbreviations">
+          <button id="addabbr" onAction="addabbrcallback" label="Add entry" imageMso="Thesaurus" size="large" screentip="Lets you add abbreviations and corresponding expansions in the autocorrect list."/>
+        <button id="removeabbr" onAction="removeabbrcallback" label="Remove entry" imageMso="RecordsDeleteRecord" size="large" screentip="Lets you delete an autocorrect entry"/>
+      </group>
+      </tab>
+    </tabs>
+  </ribbon>
+</customUI>
+
+
+

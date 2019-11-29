@@ -1,0 +1,37 @@
+C:\Users\t-kathi\Documents\Visual Studio 2013\Projects\templates\templates\bin\Debug\MailMadeEasy.dll
+C:\Users\t-kathi\Documents\Visual Studio 2013\Projects\templates\templates\bin\Debug\MailMadeEasy.pdb
+C:\Users\t-kathi\Documents\Visual Studio 2013\Projects\templates\templates\bin\Debug\MailMadeEasy.dll.manifest
+C:\Users\t-kathi\Documents\Visual Studio 2013\Projects\templates\templates\bin\Debug\MailMadeEasy.vsto
+C:\Users\t-kathi\Documents\Visual Studio 2013\Projects\templates\templates\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\t-kathi\Documents\Visual Studio 2013\Projects\templates\templates\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\Users\t-kathi\Documents\Visual Studio 2013\Projects\templates\templates\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\t-kathi\Documents\Visual Studio 2013\Projects\templates\templates\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.xml
+C:\Users\t-kathi\Documents\Visual Studio 2013\Projects\templates\templates\obj\Debug\MailMadeEasy.csproj.ResolveComReference.cache
+C:\Users\t-kathi\Documents\Visual Studio 2013\Projects\templates\templates\obj\Debug\templates.Form1.resources
+C:\Users\t-kathi\Documents\Visual Studio 2013\Projects\templates\templates\obj\Debug\templates.Form2.resources
+C:\Users\t-kathi\Documents\Visual Studio 2013\Projects\templates\templates\obj\Debug\templates.Form3.resources
+C:\Users\t-kathi\Documents\Visual Studio 2013\Projects\templates\templates\obj\Debug\templates.Properties.Resources.resources
+C:\Users\t-kathi\Documents\Visual Studio 2013\Projects\templates\templates\obj\Debug\MailMadeEasy.csproj.GenerateResource.Cache
+C:\Users\t-kathi\Documents\Visual Studio 2013\Projects\templates\templates\obj\Debug\MailMadeEasy.dll
+C:\Users\t-kathi\Documents\Visual Studio 2013\Projects\templates\templates\obj\Debug\MailMadeEasy.pdb
+C:\Users\t-kathi\Documents\Visual Studio 2013\Projects\templates\templates\obj\Debug\MailMadeEasy.csprojResolveAssemblyReference.cache
+D:\mikkydata\OneDrive - Microsoft\Desktop2\OfficeApps\MailMadeEasy - VSTO - Outlook\SourceCode\templates\templates\bin\Debug\MailMadeEasy.dll
+D:\mikkydata\OneDrive - Microsoft\Desktop2\OfficeApps\MailMadeEasy - VSTO - Outlook\SourceCode\templates\templates\bin\Debug\MailMadeEasy.pdb
+D:\mikkydata\OneDrive - Microsoft\Desktop2\OfficeApps\MailMadeEasy - VSTO - Outlook\SourceCode\templates\templates\bin\Debug\MailMadeEasy.dll.manifest
+D:\mikkydata\OneDrive - Microsoft\Desktop2\OfficeApps\MailMadeEasy - VSTO - Outlook\SourceCode\templates\templates\bin\Debug\MailMadeEasy.vsto
+D:\mikkydata\OneDrive - Microsoft\Desktop2\OfficeApps\MailMadeEasy - VSTO - Outlook\SourceCode\templates\templates\bin\Debug\Microsoft.Office.Tools.Common.dll
+D:\mikkydata\OneDrive - Microsoft\Desktop2\OfficeApps\MailMadeEasy - VSTO - Outlook\SourceCode\templates\templates\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\mikkydata\OneDrive - Microsoft\Desktop2\OfficeApps\MailMadeEasy - VSTO - Outlook\SourceCode\templates\templates\bin\Debug\Microsoft.Office.Tools.dll
+D:\mikkydata\OneDrive - Microsoft\Desktop2\OfficeApps\MailMadeEasy - VSTO - Outlook\SourceCode\templates\templates\bin\Debug\Microsoft.Office.Tools.Outlook.dll
+D:\mikkydata\OneDrive - Microsoft\Desktop2\OfficeApps\MailMadeEasy - VSTO - Outlook\SourceCode\templates\templates\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+D:\mikkydata\OneDrive - Microsoft\Desktop2\OfficeApps\MailMadeEasy - VSTO - Outlook\SourceCode\templates\templates\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+D:\mikkydata\OneDrive - Microsoft\Desktop2\OfficeApps\MailMadeEasy - VSTO - Outlook\SourceCode\templates\templates\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+D:\mikkydata\OneDrive - Microsoft\Desktop2\OfficeApps\MailMadeEasy - VSTO - Outlook\SourceCode\templates\templates\obj\Debug\MailMadeEasy.csproj.ResolveComReference.cache
+D:\mikkydata\OneDrive - Microsoft\Desktop2\OfficeApps\MailMadeEasy - VSTO - Outlook\SourceCode\templates\templates\obj\Debug\templates.Form1.resources
+D:\mikkydata\OneDrive - Microsoft\Desktop2\OfficeApps\MailMadeEasy - VSTO - Outlook\SourceCode\templates\templates\obj\Debug\templates.Form2.resources
+D:\mikkydata\OneDrive - Microsoft\Desktop2\OfficeApps\MailMadeEasy - VSTO - Outlook\SourceCode\templates\templates\obj\Debug\templates.Form3.resources
+D:\mikkydata\OneDrive - Microsoft\Desktop2\OfficeApps\MailMadeEasy - VSTO - Outlook\SourceCode\templates\templates\obj\Debug\templates.Properties.Resources.resources
+D:\mikkydata\OneDrive - Microsoft\Desktop2\OfficeApps\MailMadeEasy - VSTO - Outlook\SourceCode\templates\templates\obj\Debug\MailMadeEasy.csproj.GenerateResource.cache
+D:\mikkydata\OneDrive - Microsoft\Desktop2\OfficeApps\MailMadeEasy - VSTO - Outlook\SourceCode\templates\templates\obj\Debug\MailMadeEasy.csproj.CopyComplete
+D:\mikkydata\OneDrive - Microsoft\Desktop2\OfficeApps\MailMadeEasy - VSTO - Outlook\SourceCode\templates\templates\obj\Debug\MailMadeEasy.dll
+D:\mikkydata\OneDrive - Microsoft\Desktop2\OfficeApps\MailMadeEasy - VSTO - Outlook\SourceCode\templates\templates\obj\Debug\MailMadeEasy.pdb

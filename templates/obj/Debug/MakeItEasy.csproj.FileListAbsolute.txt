@@ -1,0 +1,15 @@
+C:\Users\t-kathi\Documents\Visual Studio 2013\Projects\templates\templates\bin\Debug\MakeItEasy.dll
+C:\Users\t-kathi\Documents\Visual Studio 2013\Projects\templates\templates\bin\Debug\MakeItEasy.pdb
+C:\Users\t-kathi\Documents\Visual Studio 2013\Projects\templates\templates\bin\Debug\MakeItEasy.dll.manifest
+C:\Users\t-kathi\Documents\Visual Studio 2013\Projects\templates\templates\bin\Debug\MakeItEasy.vsto
+C:\Users\t-kathi\Documents\Visual Studio 2013\Projects\templates\templates\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\t-kathi\Documents\Visual Studio 2013\Projects\templates\templates\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\Users\t-kathi\Documents\Visual Studio 2013\Projects\templates\templates\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\t-kathi\Documents\Visual Studio 2013\Projects\templates\templates\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.xml
+C:\Users\t-kathi\Documents\Visual Studio 2013\Projects\templates\templates\obj\Debug\MakeItEasy.csproj.ResolveComReference.cache
+C:\Users\t-kathi\Documents\Visual Studio 2013\Projects\templates\templates\obj\Debug\templates.Form1.resources
+C:\Users\t-kathi\Documents\Visual Studio 2013\Projects\templates\templates\obj\Debug\templates.Form2.resources
+C:\Users\t-kathi\Documents\Visual Studio 2013\Projects\templates\templates\obj\Debug\templates.Properties.Resources.resources
+C:\Users\t-kathi\Documents\Visual Studio 2013\Projects\templates\templates\obj\Debug\MakeItEasy.csproj.GenerateResource.Cache
+C:\Users\t-kathi\Documents\Visual Studio 2013\Projects\templates\templates\obj\Debug\MakeItEasy.dll
+C:\Users\t-kathi\Documents\Visual Studio 2013\Projects\templates\templates\obj\Debug\MakeItEasy.pdb
