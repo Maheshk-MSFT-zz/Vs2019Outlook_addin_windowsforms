@@ -1,0 +1,5 @@
+"# outlook_addin_winforms" 
+"# Vs2019Outlook_addin_windowsforms" 
+"# Vs2019Outlook_addin_windowsforms" 
+"# Vs2019Outlook_addin_windowsforms" 
+"# Vs2019Outlook_addin_windowsforms" 
